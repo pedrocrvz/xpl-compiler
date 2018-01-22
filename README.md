@@ -1,8 +1,13 @@
 # xpl-compiler
+Compilers Project 16/17
+
 
 Lexical: GNU Flex 2.5.35
+
 Syntax: byacc-1.9
+
 Semantics and code generation: CDK12, RTS4 and extensions
+
 Assembling: yasm (linux/elf32)
 
 -----
